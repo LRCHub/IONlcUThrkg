@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Wish You Well",
+  "base_artist": "Jeff Bernat",
+  "createdAt": "2025-12-30T06:05:40.066578Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wish You Well",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/01_Wish_You_Well_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Wish You Well",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/02_I_Wish_You_Well_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Signed I Wish You Well",
+      "artist": "Helios",
+      "has_synced": true,
+      "path": "select/03_Signed_I_Wish_You_Well_Helios.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wish You Well",
+      "artist": "PVRIS",
+      "has_synced": true,
+      "path": "select/04_Wish_You_Well_PVRIS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wish You Well",
+      "artist": "A Fine Frenzy",
+      "has_synced": true,
+      "path": "select/05_Wish_You_Well_A_Fine_Frenzy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wish You Well",
+      "artist": "Thousand Foot Krutch",
+      "has_synced": false,
+      "path": "select/06_Wish_You_Well_Thousand_Foot_Krutch.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Wish You Well",
+      "artist": "Bill Withers",
+      "has_synced": true,
+      "path": "select/07_I_Wish_You_Well_Bill_Withers.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Wish You Well (Album Version)",
+      "artist": "Bill Withers",
+      "has_synced": true,
+      "path": "select/08_I_Wish_You_Well_(Album_Version)_Bill_Withers.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "WISH YOU WELL (skit)",
+      "artist": "The Kid LAROI",
+      "has_synced": true,
+      "path": "select/09_WISH_YOU_WELL_(skit)_The_Kid_LAROI.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "WISH YOU WELL (skit)",
+      "artist": "The Kid LAROI",
+      "has_synced": true,
+      "path": "select/10_WISH_YOU_WELL_(skit)_The_Kid_LAROI.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Wish You Well",
+      "artist": "Jeff Bernat",
+      "has_synced": true,
+      "path": "select/11_Wish_You_Well_Jeff_Bernat.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Wish You Well - Benny Benassi Remix",
+      "artist": "Sigala feat. Becky Hill & Benny Benassi",
+      "has_synced": true,
+      "path": "select/12_Wish_You_Well_-_Benny_Benassi_Remix_Sigala_feat._Becky_Hill_&_Benny_Benassi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Wish You Well - Benny Benassi Remix",
+      "artist": "Sigala, Becky Hill, Benny Benassi",
+      "has_synced": true,
+      "path": "select/13_Wish_You_Well_-_Benny_Benassi_Remix_Sigala,_Becky_Hill,_Benny_Benassi.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Wish You Well",
+      "artist": "Our Lady Peace",
+      "has_synced": true,
+      "path": "select/14_Wish_You_Well_Our_Lady_Peace.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Wish You Well / The Last Song",
+      "artist": "Thousand Foot Krutch",
+      "has_synced": false,
+      "path": "select/15_Wish_You_Well___The_Last_Song_Thousand_Foot_Krutch.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wish You Well",
+      "artist": "Jeff Bernat",
+      "has_synced": false,
+      "path": "select/pl_01_Wish_You_Well_Jeff_Bernat.txt"
+    }
+  ]
+}
